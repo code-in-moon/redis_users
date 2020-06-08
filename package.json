@@ -1,0 +1,17 @@
+{
+  "name": "redis_user_managment",
+  "version": "1.0.0",
+  "description": "base user management by redis",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "codeinmoon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "method-override": "^3.0.0",
+    "redis": "^3.0.2"
+  }
+}
